@@ -4,7 +4,8 @@
 # a utiliser avec le fichier de simulation dotant
 # ROBIZAR de camera (mobile-eyes.ttt)
 #-----------------------------------------------
-# Jacques BOONAERT - mars 2020
+# Boubker-bennani 
+
 # UV Robotique & Vision
 #==============================================
 #===============================================
